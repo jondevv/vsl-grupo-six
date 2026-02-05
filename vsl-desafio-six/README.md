@@ -59,5 +59,7 @@ Escolhi `sessionStorage` ao invés de `localStorage` de propósito. O sessionSto
 - O projeto usa poucas dependências: React, React Router e Tailwind. Nada de biblioteca de UI pesada
 - O Vite já faz tree-shaking e minificação no build de produção
 
-## Ligthouse
+### Ligthouse
 - Pode achar meus resultados do Lighthouse mobile aqui: `vsl-desafio-six/Lighthouse.png`
+
+## Deploy [https://vsl-grupo-six.vercel.app]
